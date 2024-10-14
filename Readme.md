@@ -9,8 +9,8 @@ This repository is part of **Quarter 2** of the **Certified Cloud Native Applied
 The **Applied Generative AI Fundamentals** sessions focus on mastering **Generative AI**, **Prompt Engineering**, **Custom GPT Development**, and **Multi AI Agent Systems**. These sessions will guide you through real-world examples and hands-on exercises to build a strong foundation in applying Large Language Models (LLMs) and diffusion models. Whether you're a beginner or looking to deepen your expertise, this repository provides valuable resources.
 
 ### Instructors:
-- **Abdul Qadir Imran** - Lead Instructor, Cloud Native & MERN Stack Developer
-- **Abdullah Iqbal** - Co-Instructor, [Co-Instructor Role]
+- **Abdul Qadir Imran** - Lead Instructor, DevOps Engineer (DOE)
+- **Abdullah Iqbal** - Co-Instructor, Full Stack Developer (FSD)
 
 ### Learning Goals:
 - Understand **Generative AI** and **Prompt Engineering** techniques
